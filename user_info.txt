@@ -1,0 +1,7 @@
+Username: intissar
+Encrypted Password: U2FsdGVkX18yci55mCthxQyvGjtiPO7C8WB7NlqGaFo=
+OS: win32
+Architecture: x64
+CPU: AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx  
+Total RAM: 19197116416 bytes
+Free RAM: 6717157376 bytes
